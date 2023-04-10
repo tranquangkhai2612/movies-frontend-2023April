@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movies-frontend-2023April/static/css/main.e797863b.css",
+    "main.js": "/movies-frontend-2023April/static/js/main.ea792854.js",
+    "index.html": "/movies-frontend-2023April/index.html",
+    "main.e797863b.css.map": "/movies-frontend-2023April/static/css/main.e797863b.css.map",
+    "main.ea792854.js.map": "/movies-frontend-2023April/static/js/main.ea792854.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e797863b.css",
+    "static/js/main.ea792854.js"
+  ]
+}
